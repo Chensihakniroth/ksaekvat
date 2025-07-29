@@ -1,0 +1,211 @@
+[
+    {
+        "name": "Hunt Blessing",
+        "emoji": "🍀",
+        "rarity": "common",
+        "type": "consumable",
+        "value": 100,
+        "description": "Increases hunt success rate for 1 hour",
+        "effect": "hunt_boost",
+        "duration": 3600000
+    },
+    {
+        "name": "Lucky Coin",
+        "emoji": "🪙",
+        "rarity": "common",
+        "type": "consumable",
+        "value": 150,
+        "description": "Doubles your next daily reward",
+        "effect": "daily_boost",
+        "uses": 1
+    },
+    {
+        "name": "Energy Drink",
+        "emoji": "⚡",
+        "rarity": "common",
+        "type": "consumable",
+        "value": 75,
+        "description": "Reduces all cooldowns by 50% for 30 minutes",
+        "effect": "cooldown_reduction",
+        "duration": 1800000
+    },
+    {
+        "name": "Animal Treat",
+        "emoji": "🦴",
+        "rarity": "common",
+        "type": "consumable",
+        "value": 80,
+        "description": "Guarantees finding an uncommon or better animal on next hunt",
+        "effect": "rare_hunt",
+        "uses": 1
+    },
+    {
+        "name": "XP Potion",
+        "emoji": "🧪",
+        "rarity": "uncommon",
+        "type": "consumable",
+        "value": 200,
+        "description": "Doubles XP gain for 2 hours",
+        "effect": "xp_boost",
+        "duration": 7200000
+    },
+    {
+        "name": "Battle Horn",
+        "emoji": "📯",
+        "rarity": "uncommon",
+        "type": "consumable",
+        "value": 250,
+        "description": "Increases battle power by 25% for next 5 battles",
+        "effect": "battle_boost",
+        "uses": 5
+    },
+    {
+        "name": "Golden Lure",
+        "emoji": "🎣",
+        "rarity": "uncommon",
+        "type": "consumable",
+        "value": 300,
+        "description": "Attracts rare animals for the next 3 hunts",
+        "effect": "rare_attraction",
+        "uses": 3
+    },
+    {
+        "name": "KK Magnet",
+        "emoji": "🧲",
+        "rarity": "uncommon",
+        "type": "consumable",
+        "value": 400,
+        "description": "Increases KK coin rewards by 50% for 1 hour",
+        "effect": "money_boost",
+        "duration": 3600000
+    },
+    {
+        "name": "Steel Sword",
+        "emoji": "⚔️",
+        "rarity": "rare",
+        "type": "weapon",
+        "value": 800,
+        "description": "A sharp steel sword that increases battle power",
+        "effect": "battle_power",
+        "power": 50,
+        "durability": 100
+    },
+    {
+        "name": "Magic Shield",
+        "emoji": "🛡️",
+        "rarity": "rare",
+        "type": "armor",
+        "value": 750,
+        "description": "A magical shield that provides protection in battles",
+        "effect": "defense",
+        "defense": 40,
+        "durability": 80
+    },
+    {
+        "name": "Hunter's Bow",
+        "emoji": "🏹",
+        "rarity": "rare",
+        "type": "weapon",
+        "value": 900,
+        "description": "An enchanted bow that improves hunting accuracy",
+        "effect": "hunt_accuracy",
+        "power": 45,
+        "hunt_bonus": 15
+    },
+    {
+        "name": "Legendary Elixir",
+        "emoji": "💊",
+        "rarity": "rare",
+        "type": "consumable",
+        "value": 1000,
+        "description": "Grants massive bonuses to all activities for 30 minutes",
+        "effect": "legendary_boost",
+        "duration": 1800000
+    },
+    {
+        "name": "Dragon Scale Armor",
+        "emoji": "🐲",
+        "rarity": "epic",
+        "type": "armor",
+        "value": 2000,
+        "description": "Armor forged from dragon scales, provides incredible protection",
+        "effect": "ultimate_defense",
+        "defense": 100,
+        "fire_resistance": true
+    },
+    {
+        "name": "Mythril Blade",
+        "emoji": "🗡️",
+        "rarity": "epic",
+        "type": "weapon",
+        "value": 2500,
+        "description": "A blade forged from mythril, devastatingly powerful",
+        "effect": "mythril_power",
+        "power": 150,
+        "crit_chance": 25
+    },
+    {
+        "name": "Phoenix Feather",
+        "emoji": "🪶",
+        "rarity": "epic",
+        "type": "consumable",
+        "value": 3000,
+        "description": "A feather from a phoenix that grants resurrection on defeat",
+        "effect": "resurrection",
+        "uses": 1
+    },
+    {
+        "name": "Time Crystal",
+        "emoji": "🔮",
+        "rarity": "epic",
+        "type": "consumable",
+        "value": 4000,
+        "description": "Allows you to reset all cooldowns instantly",
+        "effect": "reset_cooldowns",
+        "uses": 1
+    },
+    {
+        "name": "Crown of Kings",
+        "emoji": "👑",
+        "rarity": "legendary",
+        "type": "accessory",
+        "value": 10000,
+        "description": "The ultimate crown that provides massive bonuses to everything",
+        "effect": "royal_power",
+        "all_stats": 100,
+        "prestige": true
+    },
+    {
+        "name": "Infinity Stone",
+        "emoji": "♾️",
+        "rarity": "legendary",
+        "type": "consumable",
+        "value": 15000,
+        "description": "A stone containing infinite power, grants godlike abilities temporarily",
+        "effect": "infinity_power",
+        "duration": 600000,
+        "uses": 1
+    },
+    {
+        "name": "Divine Blessing",
+        "emoji": "✨",
+        "rarity": "legendary",
+        "type": "consumable",
+        "value": 20000,
+        "description": "A blessing from the gods themselves, permanently increases level by 5",
+        "effect": "divine_level",
+        "uses": 1,
+        "permanent": true
+    },
+    {
+        "name": "Cosmic Orb",
+        "emoji": "🌌",
+        "rarity": "legendary",  
+        "type": "artifact",
+        "value": 50000,
+        "description": "An orb containing the power of the cosmos, the ultimate artifact",
+        "effect": "cosmic_power",
+        "ultimate": true,
+        "all_bonuses": 200
+    }
+]

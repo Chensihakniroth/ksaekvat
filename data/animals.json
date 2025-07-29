@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Rabbit",
+        "emoji": "🐰",
+        "rarity": "common",
+        "habitat": "Grassland",
+        "baseValue": 50,
+        "description": "A cute and fluffy rabbit that loves to hop around."
+    },
+    {
+        "name": "Cat",
+        "emoji": "🐱",
+        "rarity": "common",
+        "habitat": "Domestic",
+        "baseValue": 45,
+        "description": "A friendly house cat that purrs when happy."
+    },
+    {
+        "name": "Dog",
+        "emoji": "🐶",
+        "rarity": "common",
+        "habitat": "Domestic",
+        "baseValue": 55,
+        "description": "A loyal companion that loves to play fetch."
+    },
+    {
+        "name": "Bird",
+        "emoji": "🐦",
+        "rarity": "common",
+        "habitat": "Sky",
+        "baseValue": 40,
+        "description": "A small songbird with beautiful feathers."
+    },
+    {
+        "name": "Mouse",
+        "emoji": "🐭",
+        "rarity": "common",
+        "habitat": "Urban",
+        "baseValue": 35,
+        "description": "A tiny mouse that squeaks adorably."
+    },
+    {
+        "name": "Fox",
+        "emoji": "🦊",
+        "rarity": "uncommon",
+        "habitat": "Forest",
+        "baseValue": 100,
+        "description": "A clever fox with a beautiful red coat."
+    },
+    {
+        "name": "Wolf",
+        "emoji": "🐺",
+        "rarity": "uncommon",
+        "habitat": "Forest",
+        "baseValue": 120,
+        "description": "A wild wolf that howls at the moon."
+    },
+    {
+        "name": "Bear",
+        "emoji": "🐻",
+        "rarity": "uncommon",
+        "habitat": "Forest",
+        "baseValue": 150,
+        "description": "A large bear that loves honey and fish."
+    },
+    {
+        "name": "Panda",
+        "emoji": "🐼",
+        "rarity": "uncommon",
+        "habitat": "Forest",
+        "baseValue": 180,
+        "description": "An adorable panda that munches on bamboo."
+    },
+    {
+        "name": "Koala",
+        "emoji": "🐨",
+        "rarity": "uncommon",
+        "habitat": "Forest",
+        "baseValue": 140,
+        "description": "A sleepy koala that loves eucalyptus leaves."
+    },
+    {
+        "name": "Lion",
+        "emoji": "🦁",
+        "rarity": "rare",
+        "habitat": "Savanna",
+        "baseValue": 300,
+        "description": "The king of the jungle with a mighty roar."
+    },
+    {
+        "name": "Tiger",
+        "emoji": "🐅",
+        "rarity": "rare",
+        "habitat": "Jungle",
+        "baseValue": 320,
+        "description": "A powerful tiger with striking orange stripes."
+    },
+    {
+        "name": "Elephant",
+        "emoji": "🐘",
+        "rarity": "rare",
+        "habitat": "Savanna",
+        "baseValue": 280,
+        "description": "A gentle giant with an excellent memory."
+    },
+    {
+        "name": "Giraffe",
+        "emoji": "🦒",
+        "rarity": "rare",
+        "habitat": "Savanna",
+        "baseValue": 250,
+        "description": "The tallest animal with beautiful spots."
+    },
+    {
+        "name": "Zebra",
+        "emoji": "🦓",
+        "rarity": "rare",
+        "habitat": "Savanna",
+        "baseValue": 220,
+        "description": "A striped horse that runs with the herd."
+    },
+    {
+        "name": "Dragon",
+        "emoji": "🐉",
+        "rarity": "epic",
+        "habitat": "Mythical",
+        "baseValue": 800,
+        "description": "A legendary dragon that breathes fire and soars through the sky."
+    },
+    {
+        "name": "Unicorn",
+        "emoji": "🦄",
+        "rarity": "epic",
+        "habitat": "Mythical",
+        "baseValue": 750,
+        "description": "A magical unicorn with a spiraling horn and rainbow mane."
+    },
+    {
+        "name": "Phoenix",
+        "emoji": "🔥",
+        "rarity": "epic",
+        "habitat": "Mythical",
+        "baseValue": 900,
+        "description": "A mythical bird that rises from its own ashes."
+    },
+    {
+        "name": "Kraken",
+        "emoji": "🐙",
+        "rarity": "epic",
+        "habitat": "Ocean",
+        "baseValue": 850,
+        "description": "A colossal sea monster with powerful tentacles."
+    },
+    {
+        "name": "Cosmic Cat",
+        "emoji": "🌟",
+        "rarity": "legendary",
+        "habitat": "Space",
+        "baseValue": 2000,
+        "description": "A divine feline that controls the stars and cosmic energy."
+    },
+    {
+        "name": "Time Wolf",
+        "emoji": "⏰",
+        "rarity": "legendary",
+        "habitat": "Temporal",
+        "baseValue": 2500,
+        "description": "An ancient wolf that can manipulate time itself."
+    },
+    {
+        "name": "Crystal Dragon",
+        "emoji": "💎",
+        "rarity": "legendary",
+        "habitat": "Crystal Cave",
+        "baseValue": 3000,
+        "description": "An impossibly rare dragon made of pure crystal that grants wishes."
+    },
+    {
+        "name": "Shu shu",
+        "emoji": "👸",
+        "rarity": "Priceless",
+        "habitat": "Dorm",
+        "baseValue": 99999999999999999,
+        "description": "xiong ti"
+    }
+]

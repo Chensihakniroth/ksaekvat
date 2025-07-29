@@ -1,0 +1,41 @@
+{
+  "764691513242025995": {
+    "id": "764691513242025995",
+    "cowoncy": 236,
+    "dailyClaimed": false,
+    "lastDaily": null,
+    "lastHunt": null,
+    "lastBattle": null,
+    "zoo": {
+      "Cat": 1,
+      "Bird": 1
+    },
+    "inventory": {},
+    "level": 1,
+    "xp": 23,
+    "battlesWon": 0,
+    "battlesLost": 0,
+    "animalsHunted": 2,
+    "marriedTo": null,
+    "team": []
+  },
+  "1160984144290005012": {
+    "id": "1160984144290005012",
+    "cowoncy": 164,
+    "dailyClaimed": false,
+    "lastDaily": null,
+    "lastHunt": null,
+    "lastBattle": null,
+    "zoo": {
+      "Panda": 1
+    },
+    "inventory": {},
+    "level": 1,
+    "xp": 14,
+    "battlesWon": 0,
+    "battlesLost": 0,
+    "animalsHunted": 1,
+    "marriedTo": null,
+    "team": []
+  }
+}
