@@ -1,6 +1,6 @@
 module.exports = {
     // Bot configuration
-    token: process.env.DISCORD_TOKEN || "MTM5OTQ1OTQ1NDg4OTc1NDgwNQ.Ga-wco.QxNxXdzHGsuriB7VaaI6JGkxSUywINv2FBz2sE",
+    token: process.env.DISCORD_TOKEN || "your_token",
     prefix: process.env.PREFIX || "K",
     
     // All betting cap
